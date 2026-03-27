@@ -15,7 +15,7 @@
 	fire_sound = 'modular_z121/sound/guns/tac9/tac9_fire.ogg'
 	fire_sound_volume = 45
 
-	projectile_damage_multiplier = 0.8
+	projectile_damage_multiplier = 0.85
 
 /obj/item/gun/ballistic/automatic/pistol/tac9/Initialize(mapload)
 	. = ..()
